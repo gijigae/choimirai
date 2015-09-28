@@ -1,0 +1,6 @@
+#.gitignore
+*.pyc
+/choimiraiproject/local_settings.py
+/choimiraiproject/static/
+/choimiraiproject/tmp/
+/choimiraiproject/media/
